@@ -13,8 +13,5 @@ __pycache__
 node_modules
 .idea/*
 .DS_Store
-mkpdfs/design/report.css
-mkpdfs/design/stylesheets/extensions.css
 site
-report.css
 build
