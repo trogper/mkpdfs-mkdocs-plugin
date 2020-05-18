@@ -824,6 +824,8 @@ html body article a {
   html body article a.external-link::after {
     content: " (" attr(href) ")";
     font-style: italic; }
+  html body article a.headerlink {
+    display: none !important; }
 
 html body article table {
   border-spacing: 0;

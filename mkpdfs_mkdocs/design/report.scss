@@ -256,7 +256,9 @@ html body article {
       content: " (" attr(href) ")";
       font-style: italic;
     }
-
+    &.headerlink {
+      display: none !important;
+    }
   }
   table {
     border-spacing: 0;
